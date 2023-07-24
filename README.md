@@ -2,8 +2,8 @@
 
 # Custom Races and Personalized Interface for World of Warcraft
 
-<img src="https://github.com/jedagutavito/-WTS-RACES-CUSTOM-INTERFACE-CUSTOM-FULL./assets/73094194/818c6542-eae1-4445-9434-dfd417d91628" width="800">
-<img src="https://github.com/jedagutavito/-WTS-RACES-CUSTOM-INTERFACE-CUSTOM-FULL./assets/73094194/05f1b80f-2398-4a32-8822-3da7fb9f4e8d" width="800">
+<img src="https://github.com/jedagutavito/-WTS-RACES-CUSTOM-INTERFACE-CUSTOM-FULL./assets/73094194/818c6542-eae1-4445-9434-dfd417d91628" width="1000">
+<img src="https://github.com/jedagutavito/-WTS-RACES-CUSTOM-INTERFACE-CUSTOM-FULL./assets/73094194/05f1b80f-2398-4a32-8822-3da7fb9f4e8d" width="1000">
 
 
 ## Description
