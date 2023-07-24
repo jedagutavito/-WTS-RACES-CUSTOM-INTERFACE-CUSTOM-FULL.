@@ -11,7 +11,7 @@
 Welcome to the repository of custom races and a custom interface for World of Warcraft. Here you will find exciting details about 32 unique races and a custom interface designed to enhance your gaming experience, all for sale.
 
 Includes: Core, dbc, lua scripts, patch, sql
-
+Version: 3.3.5
 ## Features
 
 - 32 unique custom races to add variety and diversity to your gaming experience.
@@ -19,6 +19,8 @@ Includes: Core, dbc, lua scripts, patch, sql
 - Detailed information about each race and their special characteristics.
 - All functional with their spells and animations.
 - All editable
+
+VIDEO RACES: https://www.youtube.com/watch?v=Hazad7wZCtI&t=59s
 
 ## Contact
 
