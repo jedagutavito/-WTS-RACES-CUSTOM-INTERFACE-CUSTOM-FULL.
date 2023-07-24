@@ -12,6 +12,7 @@ Welcome to the repository of custom races and a custom interface for World of Wa
 
 Includes: Core, dbc, lua scripts, patch, sql
 Version: 3.3.5
+
 ## Features
 
 - 32 unique custom races to add variety and diversity to your gaming experience.
